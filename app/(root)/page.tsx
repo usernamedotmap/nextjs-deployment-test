@@ -9,7 +9,7 @@ export default function Home() {
       <section className="bg-primary-70 bg-contain py-5 md:py-10">
         <div className="wrapper grid grid-cols-1 gap-5 md:grid-cols-2 2xl:gap-0">
           <div className="flex flex-col justify-center gap-8">
-            <h1 className="h1-bold">Bakit bakit bakit bakit bakit bakit bakit bakit</h1>
+            <h1 className="h1-bold">Bakit bakit bakit bakit bakit bakit bakit TIKYANG</h1>
             <p className="p-regular-20 md:p-regular-24">oo nna bakit ba ako laging nag iisa alipin mo ako kahit ako'y di mo  gustorsldfjakdl;fjakljsdfkjad oo nga kasi bai</p>
             <Button size="lg" asChild className="button w-full sm:w-fit">
               <Link href="#events">
